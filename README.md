@@ -1,7 +1,7 @@
 # Dataset
 ## FSTSP
 - [ ] Ponza
-- [ ] Murray and Chu
+- [ ] Murray and Chu (2015) - https://github.com/avelin0/fstsp/blob/3d74851468bdd97448be7e5f4997321457e0a94e/murray2015.zip 
 - [ ] De Freitas and Penna
 - [ ] Dellamico
 ## TSP
