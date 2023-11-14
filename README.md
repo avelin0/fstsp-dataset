@@ -1,6 +1,7 @@
 # Dataset
 ![image](https://github.com/avelin0/fstsp/assets/12461215/f5ab3acb-865b-4e59-9d21-a95e845f7aa9)
-Ref: Dell'amico, Montemanni and Novellani (2021) - https://arxiv.org/abs/2107.13275 
+
+Source: Dell'amico, Montemanni and Novellani (2021) - https://arxiv.org/abs/2107.13275 
 
 ## FSTSP
 - [ ] Ponza
